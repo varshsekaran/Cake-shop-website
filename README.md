@@ -1,4 +1,4 @@
-# Cake-shop-website
+# Cake Shop Website
 
 ![image](https://github.com/user-attachments/assets/433fdf9d-23f1-478c-85ed-3074b8b05fe7)
 
